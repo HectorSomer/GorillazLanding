@@ -1,0 +1,175 @@
+#title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 7vh;
+    width: 109vh;
+}
+#gorillaz h1{
+    margin-top: 1%;
+    color:rgb(204, 193, 193);
+}
+img{
+    width: 30%;
+    height: 100%
+}
+#gorillaz p{
+    font-size: 18px;
+ padding-left: 4vh;
+ padding-right: 4vh;
+ margin-top: 0%;
+ color:rgb(204, 193, 193);
+}
+#gorillaz{
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    display: flex;
+    justify-content: flex-start;
+    align-items:flex-start;
+    background-color: rgb(1, 75, 1);
+    border-radius: 20px;
+    flex-direction: row;
+    width: 150vh;
+    margin-left: 5vh;
+    height: 35.5vh;
+    overflow: hidden;
+    border: 2px solid rgb(192, 184, 184);
+}
+#cracker_island{
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    display: flex;
+    justify-content: flex-start;
+    align-items:flex-start;
+    background-color: #EF5CA6;
+    border-radius: 20px;
+    flex-direction: row;
+    width: 150vh;
+    margin-left: 5vh;
+    height: 32.5vh;
+    overflow: hidden;
+    border: 2px solid #00FFFF;
+    margin-block-end:50px;
+}
+#demon_days{
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    background-color: #b8b0b0;
+    border-radius: 20px;
+    flex-direction: row-reverse;
+    width: 150vh;
+    height: 44.5vh;
+    overflow: hidden;
+    border: 2px solid rgb(114, 111, 111);
+    margin-right: 5vh;
+}
+#song_machine{
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    background-color: #1465BB;
+    border-radius: 20px;
+    flex-direction: row-reverse;
+    width: 150vh;
+    height: 36vh;
+    overflow: hidden;
+    border: 2px solid #be7c02;
+    margin-right: 5vh;
+}
+#song_machine p{
+    color: black;
+    font-size: 18px;
+    padding-left: 4vh;
+    padding-right: 4vh;
+    margin-top: 0%;
+}
+#humanz{
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    background-color: #1465BB;
+    border-radius: 20px;
+    flex-direction: row-reverse;
+    width: 150vh;
+    height: 47.5vh;
+    overflow: hidden;
+    border: 2px solid blue;
+    margin-right: 5vh;
+}
+#humanz p{
+    color: black;
+    font-size: 18px;
+    padding-left: 4vh;
+    padding-right: 4vh;
+    margin-top: 0%;
+}
+#plastic_beach{
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    background-color: #FCA620;
+    border-radius: 20px;
+    flex-direction: row;
+    width: 150vh;
+    height: 44.5vh;
+    overflow: hidden;
+    border: 2px solid #FF0000;
+    margin-left: 5vh;
+}
+#the_now_now{
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    background-color: #50B4AD;
+    border-radius: 20px;
+    flex-direction: row;
+    width: 150vh;
+    height: 35vh;
+    overflow: hidden;
+    border: 2px solid #FFC0CB;
+    margin-left: 5vh;
+}
+#the_now_now p{
+    color: black;
+    font-size: 18px;
+    padding-left: 4vh;
+    padding-right: 4vh;
+    margin-top: 0%;
+}
+#plastic_beach p{
+    color: black;
+    font-size: 18px;
+    padding-left: 4vh;
+    padding-right: 4vh;
+    margin-top: 0%;
+}
+#demon_days p{
+    color: black;
+    font-size: 18px;
+    padding-left: 4vh;
+    padding-right: 4vh;
+    margin-top: 0%;
+}
+#rigth_conteiner{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+#left_conteiner{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+#cracker_island p{
+    color: black;
+    font-size: 18px;
+    padding-left: 4vh;
+    padding-right: 4vh;
+    margin-top: 0%;
+}

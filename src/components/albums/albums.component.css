@@ -1,0 +1,15 @@
+#albums{
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    margin-top: 1%;
+    align-items: center;
+    flex-direction: column;
+}
+#albums_area{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 50px;
+    width: 100%;
+}

@@ -1,0 +1,29 @@
+<div id="characters">
+     <div id="characters_zone">
+        <div id="title">
+         <h1>Integrantes No Virtuales</h1>
+        </div>
+        <div id="zone">
+            <div *ngFor="let character of charactersNoVirtual">
+                <app-card [character]="character"></app-card>
+            </div>
+        </div>
+        <div id="title">
+            <h1>Integrantes Virtuales</h1>
+        </div>
+        <div id="zone">
+            <div *ngFor="let character of charactersVirtual">
+                <app-card [character]="character"></app-card>
+          </div>
+        </div>
+        <div id="title">
+            <h1>Ex integrantes Virtuales</h1>
+        </div>
+        <div id="zone">
+            <div *ngFor="let character of charactersExVirtual">
+                <app-card [character]="character"></app-card>
+            </div>
+        </div>
+        <div></div>
+     </div>
+</div>

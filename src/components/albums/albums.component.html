@@ -1,0 +1,8 @@
+<div id="albums">
+    <h1>Albums de Gorillaz</h1>
+    <div id="albums_area">
+        <div *ngFor="let album of albums">
+            <app-card-album [album]="album"></app-card-album>
+        </div>
+    </div> 
+</div>
