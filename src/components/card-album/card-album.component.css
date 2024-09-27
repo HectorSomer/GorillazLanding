@@ -14,7 +14,7 @@ img{
     height: 100%
 }
 #gorillaz p{
-    font-size: 18px;
+    font-size: 13px;
  padding-left: 4vh;
  padding-right: 4vh;
  margin-top: 0%;
@@ -79,7 +79,7 @@ img{
 }
 #song_machine p{
     color: black;
-    font-size: 18px;
+    font-size: 13.5px;
     padding-left: 4vh;
     padding-right: 4vh;
     margin-top: 0%;
@@ -100,7 +100,7 @@ img{
 }
 #humanz p{
     color: black;
-    font-size: 18px;
+    font-size: 13.9px;
     padding-left: 4vh;
     padding-right: 4vh;
     margin-top: 0%;
@@ -135,21 +135,24 @@ img{
 }
 #the_now_now p{
     color: black;
-    font-size: 18px;
+    font-size: 15.5px;
     padding-left: 4vh;
     padding-right: 4vh;
     margin-top: 0%;
 }
 #plastic_beach p{
     color: black;
-    font-size: 18px;
+    font-size: 12.86px;
     padding-left: 4vh;
     padding-right: 4vh;
     margin-top: 0%;
 }
+#p_songs{
+    font-weight: bolder;
+}
 #demon_days p{
     color: black;
-    font-size: 18px;
+    font-size: 13.24px;
     padding-left: 4vh;
     padding-right: 4vh;
     margin-top: 0%;
@@ -168,8 +171,11 @@ img{
 }
 #cracker_island p{
     color: black;
-    font-size: 18px;
+    font-size: 13.5px;
     padding-left: 4vh;
     padding-right: 4vh;
     margin-top: 0%;
+}
+p{
+    font-weight:450;
 }
